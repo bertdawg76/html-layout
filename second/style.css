@@ -1,0 +1,36 @@
+.top {
+	background-color: #4A90E2;
+	height: 800px;
+	width: 600px;
+	}
+.one {
+	background-color: #50E3C2;
+	height: 800px;
+	width: 60%;
+	margin-right: 33%;
+	margin-left: 33%;
+
+}
+.two {
+	background-color: #B8E986;
+	height: 600px;
+	width: 60%;
+	margin-left: 67%;
+	
+
+}
+.three {
+	background-color: red;
+	height: 200px;
+	width: 60%;
+	margin-left: 67%;
+	text-align: center;
+	color: white;
+	font-size: 20px;
+
+}
+
+
+	
+	
+	
